@@ -1,0 +1,72 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image: url(Metropolitan_Museum_of_Art_\(The_Met\)_-_Central_Park\,_NYC.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+.header{
+    background-color:white;
+    height: fit-content;
+    margin-top:20px;
+}
+h3{
+    display: inline;
+    color:darkgreen;
+    margin-left:30px;
+    font-size: 50px;
+}
+ul{
+    display:inline;
+    margin-left:100px;
+   
+}
+li{
+    display: inline;
+    margin: 20px;
+    color:darkolivegreen;
+}
+li:hover{
+    color: aquamarine;
+    text-decoration: underline;
+}
+.body{
+
+    height:370px;
+    text-align: center;
+    padding-top: 250px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:100px;
+    color:black;
+    
+    background:linear-gradient(rgb(222, 135, 136),rgb(222, 206, 135),rgb(222, 173, 135));
+}
+p{
+    font-size: 20px;
+    
+    background:linear-gradient(rgb(222, 135, 136),rgb(222, 206, 135),rgb(222, 173, 135));
+
+    font-family:cursive;
+
+}
+button{
+    background-color: brown;
+    margin-top: 20px;
+    border-radius:20px;
+}
+button:hover{
+    color: white;
+}
+.headline{
+    background-color: white;
+}
+i{  
+    padding-top: 10px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
