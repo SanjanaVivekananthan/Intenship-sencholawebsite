@@ -21,12 +21,12 @@ h3{
 }
 ul{
     display:inline;
-    margin-left:100px;
+    margin-left: 50px;
    
 }
 li{
     display: inline;
-    margin: 20px;
+   padding:20px;
     color:darkolivegreen;
 }
 li:hover{
