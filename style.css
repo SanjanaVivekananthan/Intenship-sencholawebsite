@@ -4,8 +4,9 @@
 }
 body{
     background-image: url(Metropolitan_Museum_of_Art_\(The_Met\)_-_Central_Park\,_NYC.jpg);
-    background-size: cover;
+    background-size:100%;
     background-position: center;
+    background-repeat: no-repeat;
     
 }
 .header{
